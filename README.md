@@ -4,4 +4,4 @@
 
 **Demo:** https://alexxlen-jujutsu-kaisen.vercel.app
 
-![Alt text](demo.gif)
+![Demo](image.png)
